@@ -10,11 +10,12 @@ Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id96675
 
 ---
 
-#### **Semi-Organized Thoughts**
+#### **Blog Posts**
 
-[Running Timeline](/blog/running-timeline/article.md)  
-[Teaching Myself How to Code](/blog/teaching-myself-how-to-code/article.md)  
-[The Sneaker Contest Reimagined](https://medium.com/goatgroupengineering/the-sneaker-contest-reimagined-71a4e2f5aa0d)
+| Title                                                                                                                 | Description                                                                                                                                                                       |
+| :-------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Teaching Myself How to Code](/blog/teaching-myself-how-to-code/article.md)                                           | I’ve been asked more than a few times about how I engineered such a wide left turn in my career. I decided it would be more impactful to put the story down in writing.           |
+| [The Sneaker Contest Reimagined](https://medium.com/goatgroupengineering/the-sneaker-contest-reimagined-71a4e2f5aa0d) | GOAT’s Black Friday contest is the largest digital sneaker event of the year. We hosted our first Black Friday drawing in 2015, just a few months after we launched the GOAT app. |
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
