@@ -1,4 +1,13 @@
-### Hi there 👋
+Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/huskies-gift-players-custom-ncaa-covers) [professional](https://uclabruins.com/sports/2013/4/17/208189852.aspx).  
+Gave it up to make iOS apps 👨🏻‍💻.  
+Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561) & now at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274).  
+        
+    You can find me in DTLA working on one of three things:
+    - my next passion-project
+    - the Hodinkee iOS app
+    - or my golf game ⛳️
+    
+Feel free to reach out on [Instagram](https://www.instagram.com/dhour/)!
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
