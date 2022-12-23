@@ -45,7 +45,7 @@ I bring this up because it is around this point in your journey where you are go
 
 And in my case, since I had little to no coding experience, I had no hard skills to offer the world. Not ideal! lol. **Breathe through it.**
 
-![article_50](/teaching-myself-how-to-code/assets/gob.gif)
+![article_50](/blog/teaching-myself-how-to-code/assets/gob.gif)
 
 But after that pity party you throw for yourself (which you’re [allowed a little bit of](https://www.inc.com/carmine-gallo/nick-sabans-24-hour-rule-is-key-to-success-in-sports-business.html)), you say, **“OK, fuck this! I don’t want to ever want to feel this powerless again. I guess I’m going to just have to bootstrap it & teach myself how to code because there is literally no other choice.”**
 
@@ -109,7 +109,7 @@ Oh yay! It finally works!
 **Repeat until you get to Step A100 before moving to Feature B.**  
 And now Feature B included 5000 mini-steps in between.  
 
-![article_50](/teaching-myself-how-to-code/assets/russian-doll.gif)
+![article_50](/blog/teaching-myself-how-to-code/assets/russian-doll.gif)
 Do not despair. Just keep Googling.
 
 There will be numerous times where you will feel like you’re hitting a wall (or actually want to hit the wall) & losing your mind like Natasha Lyonne here in Russian Doll. It’s ok.
@@ -134,7 +134,7 @@ And then an hour or so after sitting down, it magically clicked. After a week of
 
 And I will tell you, that moment felt better than the one and only golf tournament I won when I was fifteen. There was an intense feeling of accomplishment rather than a sense of relief (which is usually what I felt after finishing a round of competitive golf).
 
-![article_50](/teaching-myself-how-to-code/assets/happy-gilmore.gif)
+![article_50](/blog/teaching-myself-how-to-code/assets/happy-gilmore.gif)
 
 Now, I tell this story because then and ONLY then was when I was like “ok there maybe something here for me - I should spend the money on a bootcamp.” 
 
@@ -182,4 +182,4 @@ And for those are curious, I have been at GOAT the last 3 years and have seen th
 
 I was even asked by the company to write a piece for the GOAT engineering blog which while difficult, was a pretty nice piece of validation on where I started and how far I’ve come!
 
-![article_60](/teaching-myself-how-to-code/assets/goat-ar.gif)
+![article_60](/blog/teaching-myself-how-to-code/assets/goat-ar.gif)
