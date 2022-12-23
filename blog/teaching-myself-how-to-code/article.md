@@ -6,17 +6,18 @@ I’ve been asked more than a few times about how I engineered such a wide left 
 
 ### DEV EXPERIENCE TIMELINE (Table of Contents)
 
-| Timeline                  | Description |
-| :---                      | :---        |
+| Timeline                              | Description |
+| :---                                  | :---        |
 | [Minus-5 Months](#-minus-5-months)    | It’s time to move on |
 | [Minus-2 Month](#-minus-2-months)     | Crisis of confidence |
 | [Minus-1 Month](#-minus-1-month)      | Picking the right coding language (for me) |
-| [0 Months](#tbd)          | Welcome to the University of Google |  
-| [4 Months](#tbd)          | Wait, this is fun - bootcamp time! |  
-| [8 Months](#tbd)          | Finding your 1st job with no formal education |  
-| [12 Months](#tbd)         | Building momentum |
-| [16 Months](#tbd)         | Building momentum continued |  
-| [Currently](#tbd)         | Five startups later… |  
+| [0 Months](#-0-month)                 | Welcome to the University of Google |  
+| [4 Months](#-4-months)                | Wait, this is fun - bootcamp time! |  
+| [8 Months](#-8-months)                | Finding your 1st job with no formal education |  
+| [12 Months](#-12-months)              | Building momentum |
+| [16 Months](#-16-months)              | Building momentum continued |  
+| [72 Months](#-72-months)              | Five startups later… |
+| [Currently](#TBD)                     | TBD |  
   
 And if there’s something specifically that I don’t address here, please [reach out](https://www.instagram.com/dhour)!
 
@@ -175,7 +176,7 @@ So in conclusion… this was my year-long onboarding ramp to how I taught myself
 Reach out to me on [Instagram](https://www.instagram.com/dhour) or [Twitter](https://www.twitter.com/dhourr). 
 
 ————————————
-### Currently @ 72 Months 
+### @ 72 Months 
 _TLDR; Five startups later..._
 
 And for those are curious, I have been at GOAT the last 3 years and have seen the company grow from 20 engineers to 150+! Insane!
