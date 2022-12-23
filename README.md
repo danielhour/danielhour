@@ -9,7 +9,7 @@ Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id96675
  
 Every now & then I write something:  
 [The Sneaker Contest Reimagined](https://medium.com/goatgroupengineering/the-sneaker-contest-reimagined-71a4e2f5aa0d)  
-[Teaching Myself How to Code](/blog/teaching-myself-code.md) 
+[Teaching Myself How to Code](/blog/teaching-myself-code/article.md) 
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
