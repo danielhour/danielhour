@@ -1,5 +1,4 @@
-## **dhour = Daniel + Hour**
-
+**dhour = Daniel + Hour**  
 Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/huskies-gift-players-custom-ncaa-covers) [professional](https://uclabruins.com/sports/2013/4/17/208189852.aspx).  
 Gave it up to make iOS apps 👨🏻‍💻.  
 Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561) & now at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274).
@@ -11,9 +10,9 @@ Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id96675
 
 ---
 
-#### **Semi-Organized Writing**
+#### **Semi-Organized Thoughts**
 
-[Career Timeline]()  
+[Running Timeline](/blog/running-timeline/article.md)  
 [Teaching Myself How to Code](/blog/teaching-myself-how-to-code/article.md)  
 [The Sneaker Contest Reimagined](https://medium.com/goatgroupengineering/the-sneaker-contest-reimagined-71a4e2f5aa0d)
 
