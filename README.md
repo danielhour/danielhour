@@ -6,8 +6,8 @@ Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id96675
     - my next passion-project
     - the Hodinkee iOS app
     - or my golf game ⛳️
-    
-Feel free to reach out on [Instagram](https://www.instagram.com/dhour/)!
+ 
+ 
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
