@@ -3,10 +3,13 @@ Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/
 Gave it up to make iOS apps 👨🏻‍💻.  
 Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561) & now at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274).
 
-    You can find me in DTLA working on one of three things:
-    - my next passion-project
-    - the Hodinkee iOS app
-    - or my golf game ⛳️
+You can find me in Downtown Los Angeles working on one of three things:
+
+```
+- my next passion-project
+- the Hodinkee iOS app
+- or my golf game ⛳️
+```
 
 ## **dhour.codes**
 
