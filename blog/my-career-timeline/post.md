@@ -1,8 +1,12 @@
+<style>h1 { border-bottom: 0; margin-bottom: -8px; } </style>
+
 # My Career Timeline
 
-I found this [website](https://nfttimeline.com/) during the great crypto-craze of 2020 and is the inspiration for the timeline below:
+_The [inspiration](https://nfttimeline.com/) for what you see below._
 
-######
+---
+
+<br>
 
 2023
 
