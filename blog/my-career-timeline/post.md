@@ -1,12 +1,6 @@
-<style>h1 { border-bottom: 0; margin-bottom: -8px; } </style>
-
 # My Career Timeline
 
-_The [inspiration](https://nfttimeline.com/) for what you see below._
-
----
-
-<br>
+####
 
 2023
 
@@ -89,3 +83,9 @@ _The [inspiration](https://nfttimeline.com/) for what you see below._
 2007
 
 - Fulfill life-long dream of working for the [UCLA Athletic Department](https://uclabruins.com/sports/2013/4/17/208189852.aspx)
+
+<br>
+
+---
+
+\*\* _The [inspiration](https://nfttimeline.com/) for what you see above._
