@@ -1,7 +1,7 @@
 **dhour = Daniel + Hour**  
 Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/huskies-gift-players-custom-ncaa-covers) [professional](https://uclabruins.com/sports/2013/4/17/208189852.aspx).  
 Gave it up to make iOS apps 👨🏻‍💻.  
-iOS Lead at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274). Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).
+Engineering Manager, Mobile Platforms at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274). Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).
 
 **You can find me in Downtown Los Angeles working on one of three things:**
 
