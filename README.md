@@ -11,12 +11,16 @@ Engineering Manager at [Hodinkee](https://apps.apple.com/app/apple-store/id10083
 - or my golf game ⛳️
 ```
 
-
 ## **Pixelfits**
 
 [Alex Fortney](https://www.alexmakesthings.co/) and I released an App!  
-Check it out on the [App Store](https://apps.apple.com/us/app/id6469011331).
+Download it out on the [App Store](https://apps.apple.com/us/app/id6469011331)  
+Follow along on [Instagram](https://www.instagram.com/pixelfits.app)  
+Read about the [Launch](blog/introducing-pixelfits/post.md)
 
+<a href="https://apps.apple.com/us/app/id6469011331">
+    <img src="blog/introducing-pixelfits/logo.png" alt="Download on the App Store" width="300"/>
+</a>
 
 ## **dhour.codes**
 
