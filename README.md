@@ -11,15 +11,16 @@ Engineering Manager at [Hodinkee](https://apps.apple.com/app/apple-store/id10083
 - or my golf game ⛳️
 ```
 
-<div style="border-bottom: 1px solid #404040; padding-bottom: 10px; margin-bottom: 20px;">
-    <img src="blog/introducing-pixelfits/logo.png" alt="Pixelfits logo" style="width:24px; height:auto; vertical-align:middle; display: inline-block; margin-right: 4px;">
-    <span style="display: inline-block; font-size: 1.5em; font-weight: bold; vertical-align: middle;">Pixelfits</span>
-</div>
+## 👕 **Pixelfits**
 
 [Alex Fortney](https://www.alexmakesthings.co/) and I released an App!  
 Download it out on the [App Store](https://apps.apple.com/us/app/id6469011331)  
 Follow along on [Instagram](https://www.instagram.com/pixelfits.app)  
 Read about the [Launch](blog/introducing-pixelfits/post.md)
+
+<a href="https://apps.apple.com/us/app/id6469011331">
+    <img src="blog/introducing-pixelfits/logo.png" alt="Download on the App Store" width="250"/>
+</a>
 
 ## 🧑🏻‍💻 **dhour.codes**
 
