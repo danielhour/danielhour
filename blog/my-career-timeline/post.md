@@ -2,13 +2,17 @@
 
 ####
 
-2023
+2024
 
 -
 
+2023
+
+- Release [Pixelfits](https://apps.apple.com/us/app/id6469011331) w/ Alex Fortney!
+
 2022
 
-- Realize I've actually lost all interest in the sports industry & that I’m more interested in a "less than 50 employees" startup & join [Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274) as the iOS Lead
+- Realize I want to go the people management route & join [Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274) as an Engineering Manager for Mobile Platforms.
 
 2021
 
