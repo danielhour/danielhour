@@ -8,17 +8,18 @@
 
 2023
 
+- Shipped something in SwiftUI (the Hodinkee Clock & iOS Widgets)
 - Release [Pixelfits](https://apps.apple.com/us/app/id6469011331) w/ Alex Fortney!
 
 2022
 
-- Realize I want to go the people management route & join [Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274) as an Engineering Manager for Mobile Platforms.
+- Join [Hodinkee](https://apps.apple.com/us/app/hodinkee/id1008305274) as the Engineering Manager for Mobile Platforms
 
 2021
 
 - GOAT now valued at $3.7B (only $25m raised when I joined in 2017)
 - GOAT goes full corporate & loses its startup culture
-- Go back to my roots and leave GOAT to join a "less than 10 employees" startup
+- Go back to my roots and join a "less than 10 employees" startup
 
 2020
 
