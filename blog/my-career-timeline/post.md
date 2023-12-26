@@ -18,7 +18,7 @@
 
 - GOAT now valued at $3.7B (only $25m raised when I joined in 2017)
 - GOAT goes full corporate & loses its startup culture
-- Go back to my roots and leave GOAT to join a "less than 10 employees" startup in the sports industry
+- Go back to my roots and leave GOAT to join a "less than 10 employees" startup
 
 2020
 
