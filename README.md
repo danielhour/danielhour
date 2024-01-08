@@ -6,8 +6,8 @@ Engineering Manager at [Hodinkee](https://apps.apple.com/app/apple-store/id10083
 **You can find me in Downtown Los Angeles working on one of three things:**
 
 ```
-- my new app Pixelfits
-- the Hodinkee iOS app
+- Pixelfits 👖
+- the Hodinkee iOS app ⌚️
 - or my golf game ⛳️
 ```
 
