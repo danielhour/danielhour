@@ -3,12 +3,12 @@ Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/
 Gave it up to make iOS apps 👨🏻‍💻.  
 Engineering Manager at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274). Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).
 
-**You can find me in Downtown Los Angeles working on one of three things:**
+**You can find me in DTLA working on one of three things:**
 
 ```
 - Pixelfits 👖
-- the Hodinkee iOS app ⌚️
-- or my golf game ⛳️
+- my golf swing ⛳️
+- or the Hodinkee app ⌚️
 ```
 
 ## 👖 **Pixelfits**
