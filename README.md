@@ -33,23 +33,25 @@ Download it out on the [App Store](https://apps.apple.com/us/app/id6469011331) &
 | [Why Design Matters](/blog/why-design-matters/post.md)                                                                | I get that the topic of design's importance in tech isn't exactly breaking news, but I really think the story of how Pixelfits evolved is something special. It's also a bit of a personal journey for me – from a dismissive "design, schmesign" attitude to a full-on "aha, so this is what it's all about" moment. |
 | [Exploring New APIs w/ Pixelfits](/blog/exploring-new-api/post.md)                                                    | Whenever inspiration strikes for a new app, I blend the latest Apple APIs with technologies unexplored in my day job. This approach sharpens my skills, keeping me engaged with the evolving iOS landscape and its array of new tools.                                                                                |
 
-## 🤑 **Where I have been paid to ship ~~bugs~~ features**
+## 🤑 **Places I've shipped ~~bugs~~ features**
 
-<p align="center">
-  <img src="logos/hodinkee.png" alt="Download on the App Store" width="48"/>
-  <br>
-  <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a>
-</p>
-<p align="center">
-  <img src="logos/goat.png" alt="Download on the App Store" width="48"/>
-  <br>
-  <a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a>
-</p>
-<p align="center">
-  <img src="logos/acorns.png" alt="Download on the App Store" width="48"/>
-  <br>
-  <a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a>
-</p>
+<div align="center" style="display: flex; justify-content: left; align-items: center; gap: 20px;">
+  <div>
+    <img src="logos/hodinkee.png" alt="Download on the App Store" width="48"/>
+    <br>
+    <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a>
+  </div>
+  <div>
+    <img src="logos/goat.png" alt="Download on the App Store" width="48"/>
+    <br>
+    <a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a>
+  </div>
+  <div>
+    <img src="logos/acorns.png" alt="Download on the App Store" width="48"/>
+    <br>
+    <a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a>
+  </div>
+</div>
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
