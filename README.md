@@ -36,17 +36,17 @@ Download it out on the [App Store](https://apps.apple.com/us/app/id6469011331) &
 ## 🤑 **Where I have been paid to ship ~~bugs~~ features**
 
 <p align="center">
-  <img src="logos/hodinkee.jpeg" alt="Download on the App Store" width="48" style="border-radius: 12px;"/>
+  <img src="logos/hodinkee.png" alt="Download on the App Store" width="48"/>
   <br>
   <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a>
 </p>
 <p align="center">
-  <img src="logos/goat.jpeg" alt="Download on the App Store" width="48" style="border-radius: 12px;"/>
+  <img src="logos/goat.png" alt="Download on the App Store" width="48"/>
   <br>
   <a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a>
 </p>
 <p align="center">
-  <img src="logos/acorns.png" alt="Download on the App Store" width="48" style="border-radius: 12px;"/>
+  <img src="logos/acorns.png" alt="Download on the App Store" width="48"/>
   <br>
   <a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a>
 </p>
