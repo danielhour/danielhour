@@ -37,11 +37,11 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 
 ## 💼 **dhour.portfolio**
 
-<p >
+<div style="display: flex; align-items: center;">
   <img src="logos/pixelfits.png" alt="Download on the App Store" width="8%" />
-  <br>
-  <a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a>
-</p>
+  <a href="https://apps.apple.com/us/app/id6469011331" style="margin-left: 10px;">Pixelfits</a>
+</div>
+
 <p>
   <img src="logos/hodinkee.png" alt="Download on the App Store" width="8%" />
   <br>
