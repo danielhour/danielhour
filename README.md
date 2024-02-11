@@ -1,25 +1,18 @@
 **dhour = Daniel + Hour**  
 Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/huskies-gift-players-custom-ncaa-covers) [professional](https://uclabruins.com/sports/2013/4/17/208189852.aspx).  
 Gave it up to make iOS apps 👨🏻‍💻.  
-Engineering Manager at [Hodinkee](https://apps.apple.com/app/apple-store/id1008305274). Previously at [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).
+Former early employee @ [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).  
+Now running [Destro Labs](https://destrolabs.xyz).
 
-**You can find me in DTLA working on one of three things:**
+**You can find me in DTLA doing one of three things:**
 
 ```
-- Pixelfits 👖
+- destro lab projects 🧑🏻‍🔬
+- hanging w/ frank 🐶
 - my golf swing ⛳️
-- or the Hodinkee app ⌚️
 ```
 
-## 👖 **Pixelfits**
-
-[Alex Fortney](https://www.alexmakesthings.co/) and I released an App:  
-[Introducing Pixelfits](blog/introducing-pixelfits/post.md) - Your Virtual 2D Fitting Room!  
-Download it out on the [App Store](https://apps.apple.com/us/app/id6469011331) & follow along on [Instagram](https://www.instagram.com/pixelfits.app)
-
-<a href="https://apps.apple.com/us/app/id6469011331">
-    <img src="blog/introducing-pixelfits/logo.png" alt="Download on the App Store" width="350"/>
-</a>
+<br>
 
 ## 🧑🏻‍💻 **dhour.codes**
 
@@ -33,8 +26,22 @@ Download it out on the [App Store](https://apps.apple.com/us/app/id6469011331) &
 | [Why Design Matters](/blog/why-design-matters/post.md)                                                                | I get that the topic of design's importance in tech isn't exactly breaking news, but I really think the story of how Pixelfits evolved is something special. It's also a bit of a personal journey for me – from a dismissive "design, schmesign" attitude to a full-on "aha, so this is what it's all about" moment. |
 | [Exploring New APIs w/ Pixelfits](/blog/exploring-new-api/post.md)                                                    | Whenever inspiration strikes for a new app, I blend the latest Apple APIs with technologies unexplored in my day job. This approach sharpens my skills, keeping me engaged with the evolving iOS landscape and its array of new tools.                                                                                |
 
+<br>
+
+## 🧑🏻‍🔬 **dhour.biz**
+
+[Destro Labs](https://destrolabs.xyz) is a bespoke apps, websites, and digital solutions provider.  
+Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
+
+<br>
+
 ## 💼 **dhour.portfolio**
 
+<p align="center">
+  <img src="logos/pixelfits.png" alt="Download on the App Store" width="48"/>
+  <br>
+  <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Pixelfits</a>
+</p>
 <p align="center">
   <img src="logos/hodinkee.png" alt="Download on the App Store" width="48"/>
   <br>
