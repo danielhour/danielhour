@@ -37,26 +37,24 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 
 ## 💼 **dhour.portfolio**
 
-<table><tr>
-<td><img src="logos/pixelfits.png" alt="Download on the App Store" width="100"/></td>
-<td valign="middle"><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
-</tr></table>
-
-<p>
-  <img src="logos/hodinkee.png" alt="Download on the App Store" width="8%" />
-  <br>
-  <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a>
-</p>
-<p>
-  <img src="logos/goat.png" alt="Download on the App Store" width="8%" />
-  <br>
-  <a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a>
-</p>
-<p>
-  <img src="logos/acorns.png" alt="Download on the App Store" width="8%" />
-  <br>
-  <a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a>
-</p>
+<table>
+  <tr>
+    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="80" /></td>
+    <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
+  </tr>
+  <tr>
+    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="80" /></td>
+    <td><a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a></td>
+  </tr>
+  <tr>
+    <td><img src="logos/goat.png" alt="Download on the App Store" width="80" /></td>
+    <td><a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a></td>
+  </tr>
+  <tr>
+    <td><img src="logos/acorns.png" alt="Download on the App Store" width="80" /></td>
+    <td><a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a></td>
+  </tr>
+</table>
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
