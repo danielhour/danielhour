@@ -45,24 +45,24 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
-    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="8%" /></td>    
+    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="48px"/></td>    
     <td>Your virtual 2D Fitting Room! Our app lets you seamlessly upload tops, bottoms, or sneakers and "try on" anything you come across while browsing online.</td>    
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a></td>
-    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="8%" /></td>    
+    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="48px"/></td>    
     <td>HODINKEE is a comprehensive, award-winning online magazine covering wristwatches of a particularly high quality.</td>    
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a></td>
-    <td><img src="logos/goat.png" alt="Download on the App Store" width="8%" /></td>    
+    <td><img src="logos/goat.png" alt="Download on the App Store" width="48px"/></td>    
     <td>GOAT is the global platform for the greatest products from the past, present and future.
 
 </td>    
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a></td>
-    <td><img src="logos/acorns.png" alt="Download on the App Store" width="8%" /></td>
+    <td><img src="logos/acorns.png" alt="Download on the App Store" width="48px"/></td>    
     <td>Acorns helps you invest and save for your future. With nearly $4,000,000,000 in Round-Ups® invested and counting, we are an ultimate investing & money-saving app.</td>    
   </tr>
 </table>
