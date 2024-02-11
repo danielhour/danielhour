@@ -37,23 +37,23 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 
 ## 💼 **dhour.portfolio**
 
-<p align="center">
-  <img src="logos/pixelfits.png" alt="Download on the App Store" width="48"/>
+<p >
+  <img src="logos/pixelfits.png" alt="Download on the App Store" width="8%" />
   <br>
-  <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Pixelfits</a>
+  <a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a>
 </p>
-<p align="center">
-  <img src="logos/hodinkee.png" alt="Download on the App Store" width="48"/>
+<p>
+  <img src="logos/hodinkee.png" alt="Download on the App Store" width="8%" />
   <br>
   <a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a>
 </p>
-<p align="center">
-  <img src="logos/goat.png" alt="Download on the App Store" width="48"/>
+<p>
+  <img src="logos/goat.png" alt="Download on the App Store" width="8%" />
   <br>
   <a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a>
 </p>
-<p align="center">
-  <img src="logos/acorns.png" alt="Download on the App Store" width="48"/>
+<p>
+  <img src="logos/acorns.png" alt="Download on the App Store" width="8%" />
   <br>
   <a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a>
 </p>
