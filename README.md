@@ -40,6 +40,7 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 <table>
   <tr>    
     <th>App Title</th>
+    <th>App Logo</th>
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
