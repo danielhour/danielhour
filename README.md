@@ -39,20 +39,24 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 
 <table>
   <tr>
-    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="80" /></td>
+    <th>Title</th>
+    <th>Logo</th>
+  </tr>
+  <tr>
     <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
+    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="80" /></td>    
   </tr>
   <tr>
-    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="80" /></td>
     <td><a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a></td>
+    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="80" /></td>    
   </tr>
   <tr>
-    <td><img src="logos/goat.png" alt="Download on the App Store" width="80" /></td>
     <td><a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a></td>
+    <td><img src="logos/goat.png" alt="Download on the App Store" width="80" /></td>    
   </tr>
   <tr>
-    <td><img src="logos/acorns.png" alt="Download on the App Store" width="80" /></td>
     <td><a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a></td>
+    <td><img src="logos/acorns.png" alt="Download on the App Store" width="80" /></td>
   </tr>
 </table>
 
