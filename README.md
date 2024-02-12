@@ -67,6 +67,34 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
   </tr>
 </table>
 
+<br>
+<br>
+
+## 👾 **tech.stack**
+
+![badge](https://img.shields.io/badge/SwiftUI-F3F3F4?style=flat-square&logo=Swift)
+![badge](https://img.shields.io/badge/Swift-F3F3F4?style=flat-square&logo=Swift)
+![badge](https://img.shields.io/badge/Xcode-F3F3F4?style=flat-square&logo=Xcode)
+![badge](https://img.shields.io/badge/iOS-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/iPadOS-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/watchOS-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/App_Intents-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/CloudKit-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/Core_Location-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/Push_Notifications-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/StoreKit-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/SwiftData-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/VisionKit-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/WatchKit-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/WidgetKit-F3F3F4?style=flat-square)
+
+![badge](https://img.shields.io/badge/Algolia-1A1B1D?style=flat-square&logo=algolia)
+![badge](https://img.shields.io/badge/Crashlytics-1A1B1D?style=flat-square&logo=firebase)
+![badge](https://img.shields.io/badge/Firebase-1A1B1D?style=flat-square&logo=firebase)
+![badge](https://img.shields.io/badge/Figma-1A1B1D?style=flat-square&logo=figma)
+![badge](https://img.shields.io/badge/Google_Analytics-1A1B1D?style=flat-square&logo=googleanalytics)
+![badge](https://img.shields.io/badge/Shopify-1A1B1D?style=flat-square&logo=shopify)
+
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
