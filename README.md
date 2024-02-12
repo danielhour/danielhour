@@ -81,6 +81,7 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 ![badge](https://img.shields.io/badge/App_Intents-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/CloudKit-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/Core_Location-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/Localization-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/Push_Notifications-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/StoreKit-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/SwiftData-F3F3F4?style=flat-square)
