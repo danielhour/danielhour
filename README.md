@@ -63,7 +63,7 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
   <tr>
     <td><a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a></td>
     <td><img src="logos/acorns.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>Acorns helps you invest and save for your future. With nearly $4,000,000,000 in Round-Ups® invested and counting, we are an ultimate investing & money-saving app.</td>    
+    <td>Acorns helps you save & invest. Invest spare change, bank smarter, earn bonus investments, and more.</td>    
   </tr>
 </table>
 
@@ -94,6 +94,8 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 ![badge](https://img.shields.io/badge/Figma-1A1B1D?style=flat-square&logo=figma)
 ![badge](https://img.shields.io/badge/Google_Analytics-1A1B1D?style=flat-square&logo=googleanalytics)
 ![badge](https://img.shields.io/badge/Shopify-1A1B1D?style=flat-square&logo=shopify)
+![badge](https://img.shields.io/badge/Square-1A1B1D?style=flat-square&logo=square)
+![badge](https://img.shields.io/badge/Stripe-1A1B1D?style=flat-square&logo=stripe)
 
 <!--
 **danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
