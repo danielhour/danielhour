@@ -39,14 +39,14 @@ Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 
 <table>
   <tr>    
-    <th>App Title</th>
-    <th>Logo</th>
-    <th>Description</th>
+    <th align="left">App Title</th>
+    <th align="left">Logo</th>
+    <th align="left">Description</th>
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
     <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>Your virtual 2D Fitting Room! Our app lets you seamlessly upload tops, bottoms, or sneakers and "try on" anything you come across while browsing online.</td>    
+    <td>Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers from your mobile browser and "try on" anything you come across while shopping online.</td>    
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a></td>
