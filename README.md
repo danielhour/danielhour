@@ -23,18 +23,18 @@ Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](ht
     <th align="left">Description</th>
   </tr>
   <tr>
-    <td><a href="https://apps.apple.com/us/app/id6670567397">LUX</a></td>
+    <td><a href="https://apps.apple.com/us/app/id6670567397">LUX - Sunscreen Tracking Game</a></td>
     <td><img src="logos/lux.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>LUX - The Sunscreen Tracking Game is an app that gamifies sunscreen by using your Apple Health's Time in Daylight metric!</td>    
+    <td>LUX is an app that gamifies sunscreen by using your Apple Health's Time in Daylight metric!</td>    
   </tr>
   <tr>
-    <td><a href="https://apps.apple.com/us/app/id6503170201">Hacks</a></td>
+    <td><a href="https://apps.apple.com/us/app/id6503170201">Hacks - Sim Golf Journal</a></td>
     <td><img src="logos/hacks.png" alt="Download on the App Store" width="48px"/></td>    
     <td>Hacks is a sim golf swing journal! It's an app for the golfer that wants to document their swing evolution with video, stats, and notes but not blast it all over social media.
 </td>    
   </tr>
   <tr>
-    <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits</a></td>
+    <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits - Virtual Fittings</a></td>
     <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="48px"/></td>    
     <td>Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers from your mobile browser and "try on" anything you come across while shopping online.</td>    
   </tr>
