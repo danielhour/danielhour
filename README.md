@@ -77,8 +77,7 @@ Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](ht
 
 ## 🧑🏻‍🔬 **dhour.biz (consulting)**
 
-[Destro Labs](https://destrolabs.xyz) provides digital solutions for small business owners.  
-Please visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
+[Destro Labs](https://destrolabs.xyz) provides digital solutions for small business owners. You can visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
 
 <br>
 <br>
