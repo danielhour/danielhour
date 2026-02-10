@@ -4,12 +4,12 @@ Self-taught iOS Developer since 2014 👨🏻‍💻.
 Former early employee @ [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).  
 Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](https://pixelpusher.club).
 
-**You can find me in Los Angeles working on one of three things:**
+**You can find me in Los Angeles doing one of three things:**
 
 ```
-- destro lab projects 🧑🏻‍🔬
+- coding for destro labs 🧑🏻‍🔬
+- working on the house 🏡
 - hanging w/ frank 🐶
-- my golf swing ⛳️
 ```
 
 <br>
