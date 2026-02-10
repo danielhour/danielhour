@@ -2,14 +2,14 @@
 Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/huskies-gift-players-custom-ncaa-covers) [professional](https://uclabruins.com/sports/2013/4/17/208189852.aspx).  
 Self-taught iOS Developer since 2014 👨🏻‍💻.  
 Former early employee @ [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).  
-Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](https://pixelpusher.club).
+Now running [Destro Labs](https://destrolabs.xyz).
 
 **You can find me in Los Angeles doing one of three things:**
 
 ```
-- coding for destro labs 🧑🏻‍🔬
-- working on the house 🏡
-- hanging w/ frank 🐶
+- coding 🧑🏻‍🔬
+- renovating 🏡
+- dog-parenting 🐶
 ```
 
 <br>
@@ -67,13 +67,13 @@ Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](ht
 
 I write stories about my [[mis]adventures](https://pixelpusher.club) as an iOS developer.
 
-**Popular:**
+**Most Popular:**
 
 **[I forced myself to spend a week in Instagram instead of Xcode](https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in)**<br>
 — _Featured on [Hacker News](https://news.ycombinator.com/item?id=45322819) & [iOS Dev Weekly](https://iosdevweekly.com/issues/727/)_
 
 **[I turned the Water Ring Toss game from _Severance_ into an app](https://www.pixelpusher.club/p/introducing-childish-folly)**<br>
-— _Prop Master & Miss Huang approved_
+— _Severenace Prop Master & Miss Huang approved_
 
 <br>
 
