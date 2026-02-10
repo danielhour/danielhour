@@ -1,6 +1,6 @@
 **dhour = Daniel + Hour**  
 Former [sports industry](https://www.espn.com/blog/playbook/tech/post/_/id/3520/huskies-gift-players-custom-ncaa-covers) [professional](https://uclabruins.com/sports/2013/4/17/208189852.aspx).  
-Left that world to make iOS apps 👨🏻‍💻.  
+Self-taught iOS Developer since 2014 👨🏻‍💻.  
 Former early employee @ [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).  
 Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](https://pixelpusher.club).
 
@@ -17,31 +17,40 @@ Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](ht
 ## 🧑🏻‍💻 **dhour.codes (portfolio)**
 
 <table>
-  <tr>    
+  <tr>
     <th align="left">App Title</th>
     <th align="left">Logo</th>
     <th align="left">Description</th>
   </tr>
   <tr>
-    <td><a href="https://apps.apple.com/us/app/id6670567397">LUX - Sunscreen Tracking Game</a></td>
-    <td><img src="logos/lux.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>LUX is an app that gamifies sunscreen by using your Apple Health's Time in Daylight metric!</td>    
+    <td><a href="https://apps.apple.com/us/app/artemis-directors-viewfinder/id1164523253">Artemis Pro</a></td>
+    <td><img src="logos/artemis.png" alt="Download on the App Store" width="48px"/></td>
+    <td>Professional filmmaking app for cinematographers and directors to preview shots using real camera and lens data.</td>
   </tr>
   <tr>
-    <td><a href="https://apps.apple.com/us/app/id6503170201">Hacks - Sim Golf Journal</a></td>
-    <td><img src="logos/hacks.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>Hacks is a sim golf swing journal! It's an app for the golfer that wants to document their swing evolution with video, stats, and notes but not blast it all over social media.
-</td>    
+    <td><a href="https://apps.apple.com/us/app/childish-folly/id6747728050">Childish Folly</a></td>
+    <td><img src="logos/childishfolly.png" alt="Download on the App Store" width="48px"/></td>
+    <td>The Severance ring toss game - Miss Huang approved for unwinding or testing your precision.</td>
   </tr>
   <tr>
-    <td><a href="https://apps.apple.com/us/app/id6469011331">Pixelfits - Virtual Fittings</a></td>
-    <td><img src="logos/pixelfits.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>Your virtual 2D Fitting Room! Our app lets you share tops, bottoms, or sneakers from your mobile browser and "try on" anything you come across while shopping online.</td>    
+    <td><a href="https://apps.apple.com/us/app/4-count-wrist-metronome/id6742166219">4 Count | Wrist Metronome</a></td>
+    <td><img src="logos/lagreebuddy.png" alt="Download on the App Store" width="48px"/></td>
+    <td>A haptic metronome for your Apple Watch that keeps you locked into proper tempo during Lagree workouts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://apps.apple.com/us/app/id6670567397">spf.today</a></td>
+    <td><img src="logos/spftoday.png" alt="Download on the App Store" width="48px"/></td>
+    <td>Build consistent sunscreen habits with effortless tracking and intelligent reminders.</td>
+  </tr>
+  <tr>
+    <td><a href="https://apps.apple.com/us/app/wristcheck-try-on/id6737742550">WristCheck Try-On</a></td>
+    <td><img src="logos/wristcheck.png" alt="Download on the App Store" width="48px" style="border-radius: 50%;"/></td>
+    <td>Virtually try on luxury watches at home with Apple Vision Pro.</td>
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/hodinkee/id1008305274">Hodinkee</a></td>
-    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>HODINKEE is a comprehensive, award-winning online magazine covering wristwatches of a particularly high quality.</td>    
+    <td><img src="logos/hodinkee.png" alt="Download on the App Store" width="48px"/></td>
+    <td>HODINKEE is a comprehensive, award-winning online magazine covering wristwatches of a particularly high quality.</td>
   </tr>
   <tr>
     <td><a href="https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561">GOAT</a></td>
@@ -50,51 +59,54 @@ Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](ht
 
 </td>    
   </tr>
-  <tr>
-    <td><a href="https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671">Acorns</a></td>
-    <td><img src="logos/acorns.png" alt="Download on the App Store" width="48px"/></td>    
-    <td>Acorns helps you save & invest. Invest spare change, bank smarter, earn bonus investments, and more.</td>    
-  </tr>
 </table>
 
 <br>
 
-## ✍🏻 **dhour.writes (substack)**
+## ✍🏻 **dhour.writes (pixelpushers.club)**
 
-[I write stories about my [mis]adventures as an iOS developer](https://pixelpusher.club), and I ~~sometimes~~ often post photos of my dog Frank 🐶 in the Notes.
+I write stories about my [[mis]adventures](https://pixelpusher.club) as an iOS developer.
 
-<!-- | Title                                                                                                                 | Description                                                                                                                                                                                                                                                                                                           |
-| :-------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Career Timeline](/blog/my-career-timeline/post.md)                                                                   | A "big-picture" approach to keep track of the left & right turns in my career so far. From collegiate golf to million dollar bowl game budgets to tech industry vet. It's been an odd journey and it's fun to look back on it & remember what I've done.                                                              |
-| [Teaching Myself How to Code](/blog/teaching-myself-how-to-code/post.md)                                              | I’ve been asked more than a few times about how I engineered such a wide left turn in my career. I decided it would be more impactful to put the story down in writing.                                                                                                                                               |
-| [The Sneaker Contest Reimagined](https://medium.com/goatgroupengineering/the-sneaker-contest-reimagined-71a4e2f5aa0d) | GOAT’s Black Friday contest is the largest digital sneaker event of the year. We hosted our first Black Friday drawing in 2015, just a few months after we launched the GOAT app.                                                                                                                                     |
-| [Serverless Bookmarks on iOS](/blog/serverless-bookmarks-on-ios/post.md)                                              | Bookmarks & Favoriting - an essential tool for both shoppers and retailers in the world of e-commerce. But what if there isn't enough time to spin up an entire backend service for it?                                                                                                                               |
-| [Introducing Pixelfits](/blog/introducing-pixelfits/post.md)                                                          | The idea blossomed when Apple opened up its “subject lifting” API, which magically lifts subjects out of images through a touch & hold interaction.                                                                                                                                                                   |
-| [Why Design Matters](/blog/why-design-matters/post.md)                                                                | I get that the topic of design's importance in tech isn't exactly breaking news, but I really think the story of how Pixelfits evolved is something special. It's also a bit of a personal journey for me – from a dismissive "design, schmesign" attitude to a full-on "aha, so this is what it's all about" moment. |
-| [Exploring New APIs w/ Pixelfits](/blog/exploring-new-api/post.md)                                                    | Whenever inspiration strikes for a new app, I blend the latest Apple APIs with technologies unexplored in my day job. This approach sharpens my skills, keeping me engaged with the evolving iOS landscape and its array of new tools.                                                                                | -->
+**Popular:**
+
+**[I forced myself to spend a week in Instagram instead of Xcode](https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in)**<br>
+— _Featured on [Hacker News](https://news.ycombinator.com/item?id=45322819) & [iOS Dev Weekly](https://iosdevweekly.com/issues/727/)_
+
+**[I made an app for _Severance_ fans](https://www.pixelpusher.club/p/introducing-childish-folly)**<br>
+— _Prop Master & Miss Huang approved_
 
 <br>
 
-## 🧑🏻‍🔬 **dhour.biz (consulting)**
+## 🧑🏻‍🔬 **dhour.mentors (for non-technical founders)**
 
-[Destro Labs](https://destrolabs.xyz) provides digital solutions for small business owners. You can visit [https://destrolabs.xyz](https://destrolabs.xyz) to learn more!
+[Growth Mentor](https://growthmentor.com) connects startup founders with experienced mentors for 1-on-1 advice. My strength, on this platform, is in helping non-technical founders not get screwed.
+
+I joined Growth Mentor because I got sick of [watching friends get ripped off](https://www.pixelpusher.club/p/am-i-crazy-or-does-my-engineering) by dev shops and underperforming engineering teams. So I decided to do something to help non-technical founders spot red flags early. I do this by vetting dev shops | reviewing code | sanity-checking the output.
+
+[Book a session](https://app.growthmentor.com/mentors/daniel-hour-1?ref=2827c56537).
 
 <br>
 <br>
 
 ## 👾 **tech.stack**
 
-![badge](https://img.shields.io/badge/SwiftUI-F3F3F4?style=flat-square&logo=Swift)
 ![badge](https://img.shields.io/badge/Swift-F3F3F4?style=flat-square&logo=Swift)
+![badge](https://img.shields.io/badge/SwiftUI-F3F3F4?style=flat-square&logo=Swift)
 ![badge](https://img.shields.io/badge/Xcode-F3F3F4?style=flat-square&logo=Xcode)
 ![badge](https://img.shields.io/badge/iOS-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/iPadOS-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/watchOS-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/visionOS-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/App_Intents-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/AVFoundation-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/CloudKit-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/Core_Haptics-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/Core_Location-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/HealthKit-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/Localization-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/Push_Notifications-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/RealityKit-F3F3F4?style=flat-square)
+![badge](https://img.shields.io/badge/SpriteKit-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/StoreKit-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/SwiftData-F3F3F4?style=flat-square)
 ![badge](https://img.shields.io/badge/VisionKit-F3F3F4?style=flat-square)
@@ -109,17 +121,3 @@ Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](ht
 ![badge](https://img.shields.io/badge/Shopify-1A1B1D?style=flat-square&logo=shopify)
 ![badge](https://img.shields.io/badge/Square-1A1B1D?style=flat-square&logo=square)
 ![badge](https://img.shields.io/badge/Stripe-1A1B1D?style=flat-square&logo=stripe)
-
-<!--
-**danielhour/danielhour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
