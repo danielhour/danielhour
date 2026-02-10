@@ -4,7 +4,7 @@ Self-taught iOS Developer since 2014 👨🏻‍💻.
 Former early employee @ [GOAT](https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561).  
 Now running [Destro Labs](https://destrolabs.xyz) & writing @ [Pixel Pushers](https://pixelpusher.club).
 
-**You can find me in DTLA doing one of three things:**
+**You can find me in Los Angeles working on one of three things:**
 
 ```
 - destro lab projects 🧑🏻‍🔬
@@ -72,7 +72,7 @@ I write stories about my [[mis]adventures](https://pixelpusher.club) as an iOS d
 **[I forced myself to spend a week in Instagram instead of Xcode](https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in)**<br>
 — _Featured on [Hacker News](https://news.ycombinator.com/item?id=45322819) & [iOS Dev Weekly](https://iosdevweekly.com/issues/727/)_
 
-**[I made an app for _Severance_ fans](https://www.pixelpusher.club/p/introducing-childish-folly)**<br>
+**[I turned the Water Ring Toss game from _Severance_ into an app](https://www.pixelpusher.club/p/introducing-childish-folly)**<br>
 — _Prop Master & Miss Huang approved_
 
 <br>
